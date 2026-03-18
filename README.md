@@ -1,7 +1,7 @@
 # Fn-Logic: The Mathematics of Process
 
-> 📄 **[Download full paper as PDF](https://github.com/RaikoPulvermacher/Fn-Logik-Mathematik/raw/main/Fn-Logik-Mathematik.pdf)**
-> *(Scientific document with abstract, chapters, citations & full PORL license)*
+> 📄 **[Download full paper as PDF](./Fn-Logic-The-Mathematics-of-Process.pdf)**
+> *(Scientific document with abstract, chapters 1–5, citations & full PORL license)*
 
 This repository documents **Fn-Logic** – a fundamental reorientation of physical and digital computational models. Based on the recognition that the universe operates additively rather than through static multiplication, Fn-Logic offers a lossless alternative to conventional Euler-Logic.
 
